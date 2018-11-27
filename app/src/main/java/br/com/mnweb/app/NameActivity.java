@@ -14,7 +14,6 @@ public class NameActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.name);
         edit = findViewById(R.id.nome);
-
     }
 
     public void meuNome(final View view) {
